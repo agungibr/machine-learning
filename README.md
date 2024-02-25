@@ -1,1 +1,2 @@
-just for backup and documentation for the machine learning competitions we participated in
+# Backup
+just for backup of machine learning competitions that we participate in
